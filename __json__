@@ -1,0 +1,18 @@
+{
+    "index.html": {
+        "description": "Main entry point for the application, utilizing HTML5 semantic elements for content structure.",
+        "dependencies": {
+            "styles.css": []
+        }
+    },
+    "styles.css": {
+        "description": "External CSS file using CSS3 selectors and properties to achieve the flashing effect.",
+        "exposes": []
+    },
+    ".gitignore": {
+        "description": ".gitignore with specific files for this project"
+    },
+    "README.md": {
+        "description": "README with basic documentation and 'how to run' guide"
+    }
+}
